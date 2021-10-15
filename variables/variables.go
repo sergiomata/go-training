@@ -1,4 +1,4 @@
-package main
+package variables
 
 //struct una manera de tener los datos agrupados
 
